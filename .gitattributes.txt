@@ -1,0 +1,10 @@
+# Força LF para todos os arquivos de texto
+* text=auto
+
+# Força LF para arquivos específicos
+*.sh text eol=lf
+*.java text eol=lf
+*.md text eol=lf
+
+# Força CRLF para arquivos específicos (menos comum)
+*.bat text eol=crlf
