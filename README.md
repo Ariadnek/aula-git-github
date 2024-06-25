@@ -1,6 +1,6 @@
 # aula-git-github
 
-# Aula Git e GitHub
+# Aula Git e JAVA 
 
 ## Descrição
 
